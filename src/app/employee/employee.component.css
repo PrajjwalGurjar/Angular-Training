@@ -1,0 +1,41 @@
+.form-group{
+
+    margin-top: 10px;
+ 
+ }
+ 
+ .btn-primary{
+ 
+     background-color: rgb(0, 255, 98);
+ 
+ }
+ 
+ .btn-danger{
+ 
+     background-color: red;
+ 
+ }
+
+ .thead tr.active-row {
+ 
+         font-weight: bold;
+ 
+         color: #009879;
+ 
+     }
+ 
+ 
+ 
+ .h2{
+ 
+     text-align: center;
+ 
+ }
+ 
+ .sw{
+ 
+     text-align: center;
+ 
+     width: 10px;
+ 
+ }
